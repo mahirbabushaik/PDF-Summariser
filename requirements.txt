@@ -1,0 +1,18 @@
+# Core Application & UI
+streamlit>=1.35.0
+
+# Document Processing & PDF Parsing
+pymupdf>=1.24.0
+pillow>=10.0.0
+
+# Natural Language Processing & Pretrained Models
+transformers>=4.40.0
+torch>=2.2.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+
+# OCR Engine
+pytesseract>=0.3.10
+
+# Testing & Quality Assurance
+pytest>=8.0.0

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Pytest / Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Hugging Face / PyTorch caches
+.cache/
+models/
+huggingface/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
